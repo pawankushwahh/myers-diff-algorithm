@@ -11,3 +11,7 @@ mydiff.exe
 .idea/
 *.swp
 .DS_Store
+
+# local-only material
+provided_material/
+tests/
